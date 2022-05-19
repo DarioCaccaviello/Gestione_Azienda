@@ -1,0 +1,13 @@
+.input-project{
+	display:flex;
+	align-content: flex-end;
+    justify-content: center;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
+
+
+body{
+	background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
+}
+
